@@ -30,7 +30,7 @@ export function PostInfos({
   return (
     <PostInfosContainer>
       <Top>
-        <Link href="/">
+        <Link href="/github-blog">
           <ChevronLeft
             size={14}
             absoluteStrokeWidth={true}
